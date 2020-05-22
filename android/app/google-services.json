@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "945600179224",
+    "firebase_url": "https://news360ad.firebaseio.com",
+    "project_id": "news360ad",
+    "storage_bucket": "news360ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945600179224:android:e28881ca5b6a4b52ec276d",
+        "android_client_info": {
+          "package_name": "com.toolsfortools.news360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945600179224-851tt3icdpvrkiohdbjhqnvi38vq9okb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6fg00kDAoHYHIM8p1WTP9H0_a2_bs5DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945600179224-851tt3icdpvrkiohdbjhqnvi38vq9okb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

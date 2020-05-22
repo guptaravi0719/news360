@@ -1,0 +1,13 @@
+
+for proper working update version dialogue
+change build.gradle file as follows:
+* change veersion code to desire value and 
+
+
+ change version name of app to 1.0.version_code
+
+
+2.
+go to firebase console->remotre config , change value to -> 1.0.version_code
+
+
